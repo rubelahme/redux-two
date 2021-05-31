@@ -1,0 +1,21 @@
+img {
+  width: 200px;
+  margin-top: 10px;
+  border-radius: 50%;
+  height: 200px;
+  margin-bottom: 20px;
+}
+
+.homeItem {
+  color: whitesmoke;
+  background-image: linear-gradient(to right, #4b0082, #651593);
+  box-shadow: 5px 5px 10px indigo;
+}
+.handleMenu {
+  background-image: linear-gradient(to right, indigo, violet);
+  color: whitesmoke;
+}
+.handleMenu:hover {
+  background-image: linear-gradient(to right, violet, indigo);
+  color: whitesmoke;
+}

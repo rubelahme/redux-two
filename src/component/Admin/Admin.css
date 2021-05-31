@@ -1,0 +1,11 @@
+.buttons {
+  width: 250px;
+  height: 36px;
+  background-color: rebeccapurple;
+  margin: 15px;
+}
+.sideBer {
+  height: 550px;
+  color: rebeccapurple;
+  background-color: fuchsia;
+}
